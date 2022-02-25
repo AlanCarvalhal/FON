@@ -1,0 +1,15 @@
+export {default as Amigos} from './TelaAmigos';
+export {default as Cadastrar} from './TelaCadastrar';
+export {default as Conversao} from './TelaConversao';
+export {default as Dashboard} from './TelaDashboard';
+export {default as Desafiar} from './TelaDesafiar';
+export {default as Desafio} from './TelaDesafio';
+export {default as EditarPerfil} from './TelaEditarPerfil';
+export {default as EqGases} from './TelaEqGases';
+export {default as Inicial} from './TelaInicial';
+export {default as Login} from './TelaLogin';
+export {default as NumQuant} from './TelaNumQuant';
+export {default as Pontuac} from './TelaPontuac';
+export {default as Principal} from './TelaPrincipal';
+export {default as Suporte} from './TelaSuporte';
+export {default as VerPerfil} from './TelaVerPerfil';
